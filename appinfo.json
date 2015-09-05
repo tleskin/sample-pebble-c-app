@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "tleskin@gmail.com",
+    "longName": "hello-pebble-c",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "hello-pebble-c",
+    "uuid": "5f4ff27b-af68-4e09-8bc4-888cb5011cd6",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
